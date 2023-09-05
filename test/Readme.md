@@ -1,5 +1,5 @@
 # devTest Backend
-Solution for the technical test in java, the application does a fetch to save the data from the api in the database to later make custom queries.
+Solution for the technical test in java, the application does a fetch to save the data from the api in the database to later make custom queries, automatically checks if there are new announcements in the api, in case new announcements are found, it saves them.
 
 **WEB API:**
 https://www.bitmex.com/api/explorer/#!/Announcement/Announcement_get
